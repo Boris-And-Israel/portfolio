@@ -1377,7 +1377,7 @@ span.error {
   font-weight: bold;
   font-size: 13px;
   letter-spacing: .1rem;
-  color: rgba(255, 255, 255, 0.5); }
+  color: #000;}
 
 .unslate_co--sticky {
   position: -webkit-sticky;

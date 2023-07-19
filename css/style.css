@@ -108,7 +108,7 @@ a, a:hover {
 }
 
 .btn.btn-outline-pill.btn-custom-light {
-  color: #fff;
+  color: #000;;
   border: 2px solid rgba(255, 255, 255, 0.5);
   -webkit-transition: .3s all ease;
   -o-transition: .3s all ease;
@@ -1713,7 +1713,7 @@ figure.dotted-bg:before {
   font-weight: 900;
   text-transform: uppercase;
   letter-spacing: .1rem;
-  color: rgba(255, 255, 255, 0.5);
+  color: ;
 }
 
 .detail-v1 .detail-val {
